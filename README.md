@@ -1,7 +1,7 @@
 # Excel Coffee Sales Project
 The Coffee Sales Analysis project focuses on analyzing total coffee sales across different dimensions: by year, by countries, and by customers. The project involves data cleaning, in-depth analysis using various Excel functions, and creating a dynamic dashboard to visualize key metrics.
 
-[Check out the project here:](Excel_project_CoffeeSales.xlsx)
+[Check out the project here](Excel_project_CoffeeSales.xlsx)
 
 ## Features
  - **Data Cleaning**: Cleaned raw data from the orders, customers, and products tables.
